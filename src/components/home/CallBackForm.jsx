@@ -156,7 +156,7 @@ const CallBackForm = () => {
                 {/* CAPTCHA */}
                 <div className="mb-3 overflow-hidden rounded-sm scale-[0.92] sm:scale-100 origin-left">
                   <ReCAPTCHA
-                    sitekey="YOUR_RECAPTCHA_SITE_KEY"
+                    sitekey="6LfqJPcsAAAAAIsiPQlWIonGRYz6QwNwP80Tm_V8"
                     onChange={(value) => setCaptchaValue(value)}
                   />
                 </div>

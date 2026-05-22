@@ -483,7 +483,7 @@ export default function Hero() {
                       
                       <div className="scale-[0.88] sm:scale-100 origin-center sm:origin-left">
                         <ReCAPTCHA
-                          sitekey="YOUR_RECAPTCHA_SITE_KEY"
+                          sitekey="6LfqJPcsAAAAAIsiPQlWIonGRYz6QwNwP80Tm_V8"
                           onChange={(value) =>
                             setCaptchaValue(value)
                           }
